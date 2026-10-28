@@ -37,8 +37,9 @@ Computer Systems Engineering | Embedded Systems | Robotics | AI Tooling
 <div style="display:flex;flex-wrap:wrap;gap:0.4em;margin:0.6em 0;">
 
 <span style="background:#f7df1e;color:#000;padding:0.3em 0.6em;border-radius:4px;">JavaScript</span>
-<span style="background:#3572A5;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Java</span>
+<span style="background:#f7df1e;color:#000;padding:0.3em 0.6em;border-radius:4px;">TypeScript</span>
 <span style="background:#3776AB;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Python</span>
+<span style="background:#3572A5;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Java</span>
 <span style="background:#00599C;color:#fff;padding:0.3em 0.6em;border-radius:4px;">C</span>
 <span style="background:#00599C;color:#fff;padding:0.3em 0.6em;border-radius:4px;">C++</span>
 <span style="background:#E34F26;color:#fff;padding:0.3em 0.6em;border-radius:4px;">HTML5</span>
