@@ -1,36 +1,52 @@
-# Hi, I'm Alexis 👋
+# 👋 Hey!, it's Alexis ❤️
 
-```
-  #      #      #####    #   #    #####      #      ###
- # #     #      #        # #     #        # #     #
- ###     #      ####     #      #        #       ###
- # #     #      #        # #     #        # #       #
- # #     #####  #####    #   #    #####    # #     ###
-```
+<div style="font-size:1.15em;margin-bottom:0.4em;">
+Computer Systems Engineering · Embedded Systems · Robotics · AI Tooling
+</div>
 
-```
-    ___________
-   |  _______  |
-   | |   O   | |
-   | |   _   | |
-   |___________|
-    |_|_|_|_|_|
-     embedded systems · robotics · AI tooling
-```
-
-Welcome to my engineering portfolio! I'm an embedded systems and software developer passionate about building robust hardware-software integrations, automation tools, and reliable systems. I work at the boundary where firmware talks to physics — microcontrollers, servos, sensors, and the odd digital twin.
+<div style="margin-bottom:1.2em;">
+<a href="https://github.com/Alexis-c-d" style="background:#ff6b1a;color:#fff;padding:0.35em 0.9em;border-radius:4px;text-decoration:none;font-weight:bold;margin-right:0.4em;">GITHUB</a>
+</div>
 
 ---
 
-## 📊 At a Glance
+## About me
 
-| | |
-|---|---|
-| **Domain** | Embedded Systems, Robotics, Backend/AI Tooling |
-| **Primary MCU** | PIC18F45K22 (MPLAB X, Microchip Harmony) |
-| **Other HW** | ESP32, Arduino Nano, STS3215 bus servos |
-| **Languages** | C, C++, Java, Python, JavaScript |
-| **Side quests** | UE5 digital twins, self-hosted LLM gateways |
+- 🎓 **Computer Systems Engineering** student
+- 🔧 **Embedded Systems** — PIC18F45K22, ESP32, Arduino, MPLAB X
+- 🤖 **Robotics** — STS3215 bus servos, pentapod designs, digital twins
+- 💻 **AI & Backend** — self-hosted LLM gateways, Docker, Node.js
+- 🇲🇽 **Mexican**
+- ⚡ **Nerdy but cool**
+
+---
+
+## I'm currently
+
+- 📚 Learning **UE5** (Chaos Physics, digital twins)
+- 🐍 Learning **Python**
+- 🐳 Learning **Docker**
+- 📡 Building **embedded firmware** (FSMs, sensor polling)
+
+---
+
+## Programming Languages and Technologies I know
+
+<div style="display:flex;flex-wrap:wrap;gap:0.4em;margin:0.6em 0;">
+
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">C</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">C++</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Java</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Python</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">JavaScript</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Docker</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Git</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">MPLAB X</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">UE5</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Node.js</span>
+<span style="background:#2d2d2d;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Proteus</span>
+
+</div>
 
 ---
 
@@ -73,21 +89,6 @@ Welcome to my engineering portfolio! I'm an embedded systems and software develo
 | [`java-arr-utils`](https://github.com/Alexis-c-d/java-arr-utils) | Array algorithms (max/min, scalar product) with JUnit 4 test suite |
 | [`concurso-utils`](https://github.com/Alexis-c-d/concurso-utils) | Mathematical utilities: binary/decimal conversion, GCD, digit sum, digital root |
 | [`Alexis-c-d`](https://github.com/Alexis-c-d/Alexis-c-d) | Profile README (this one) |
-
----
-
-## 🛠️ Skills & Technologies
-
-- **Embedded Systems & Hardware:** PIC Microcontrollers (MPLAB X, MCC), ESP32, Arduino, Bus Servos (STS3215), UART/SPI/I2C, Proteus simulation (`.pdsprj`).
-- **Software & Backend:** C, C++, Python, JavaScript, Docker, Git.
-- **Tools & Environments:** Linux/Bash, VS Code, MPLAB X IDE, UE5.
-
----
-
-## 📬 Get in Touch
-
-- GitHub: [@Alexis-c-d](https://github.com/Alexis-c-d)
-- Feel free to check out individual repositories or reach out for collaboration!
 
 ---
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
