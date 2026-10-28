@@ -18,7 +18,6 @@
 
 - 🎓 Studying Robotics and Telecommunications Engineering at **UDLAP**
 - 🇲🇽 Based in Mexico · 🗣️ Spanish & English
-- <img src="https://img.shields.io/badge/Flag-Mexico-006847?style=flat-square&logo=flag-mx&logoColor=white" alt="Mexico">
 - 🔌 Hands-on with embedded systems, mechatronics, and robotics
 - 📐 I turn ideas into 3D models before they become hardware
 - ⚡ Enginerd
