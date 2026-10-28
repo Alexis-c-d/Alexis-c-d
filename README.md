@@ -1,11 +1,11 @@
 # Hi, I'm Alexis 👋
 
 ```
-  ___                    ____  _____    _    __  __  ____   ___   ___
- | __) _   _  _ __ ___ |  _ \|  ___| / \  | \/  ||  _ \ / _ \ / _ \
- |__\| | | || '_ ` _ \| |_) | |_   / _ \ | |\/| || |_) | | | || | | |
- |___/| |_| || | | | ||  _ <|  _| / ___ \ | |  | ||  _ <| |_| || |_| |
-                     |_| \_\|_|  /_/   \_\_|  |_|_| \_\\___/ \___/
+ ### #    #### #   #  #   ###
+#   #    #    # #   #  #
+#####    ###   #    ###
+#   #    #    # #   #      #
+#   #    #####  #   #  #   ####
 
        embedded systems · robotics · AI tooling
 ```
@@ -61,7 +61,6 @@ Welcome to my engineering portfolio! I'm an embedded systems and software develo
 | [`pic18-comfort-controller`](https://github.com/Alexis-c-d/pic18-comfort-controller) | Environmental comfort controller on PIC18F45K22 |
 | [`arduino-stepper-clock`](https://github.com/Alexis-c-d/arduino-stepper-clock) | Arduino Nano stepper + RTC + Hall sensor project |
 | [`rocky-pentapod-robot`](https://github.com/Alexis-c-d/rocky-pentapod-robot) | Pentaradial robot inspired by Rocky from *Project Hail Mary* |
-| [`supernumerary-robotic-arm`](https://github.com/Alexis-c-d/supernumerary-robotic-arm) | Wearable 6-DOF supernumerary robotic arm (design phase) |
 | [`ue5-digital-twin-research`](https://github.com/Alexis-c-d/ue5-digital-twin-research) | UE5 Chaos Physics as a digital twin for mobile robots |
 | [`java-arr-utils`](https://github.com/Alexis-c-d/java-arr-utils) | Array algorithms (max/min, scalar product) with JUnit 4 test suite |
 | [`concurso-utils`](https://github.com/Alexis-c-d/concurso-utils) | Mathematical utilities: binary/decimal conversion, GCD, digit sum, digital root |
