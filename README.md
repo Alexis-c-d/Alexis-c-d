@@ -46,7 +46,8 @@ Computer Systems Engineering | Embedded Systems | Robotics | AI Tooling
 <span style="background:#336791;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Git</span>
 <span style="background:#2496ED;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Docker</span>
 <span style="background:#339933;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Node.js</span>
-<span style="background:#f7df1e;color:#000;padding:0.3em 0.6em;border-radius:4px;">UE5</span>
 <span style="background:#555555;color:#fff;padding:0.3em 0.6em;border-radius:4px;">MPLAB X</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">UE5</span>
+<span style="background:#f7df1e;color:#000;padding:0.3em 0.6em;border-radius:4px;">Proteus</span>
 
 </div>
