@@ -91,4 +91,3 @@ Computer Systems Engineering · Embedded Systems · Robotics · AI Tooling
 | [`Alexis-c-d`](https://github.com/Alexis-c-d/Alexis-c-d) | Profile README (this one) |
 
 ---
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
