@@ -4,7 +4,11 @@
 Computer Systems Engineering | Embedded Systems | Robotics | AI Tooling
 </div>
 
-<a href="mailto:mandideveze@gmail.com">EMAIL</a> · <a href="https://www.linkedin.com/in/alexiscalvillo">LINKEDIN</a> · <a href="https://www.instagram.com/shots.by_la">INSTAGRAM</a>
+<div style="margin-bottom:1.2em;">
+<a href="mailto:mandideveze@gmail.com" style="background:#ff6b1a;color:#fff;padding:0.35em 0.9em;border-radius:4px;text-decoration:none;font-weight:bold;margin-right:0.4em;">EMAIL</a>
+<a href="https://www.linkedin.com/in/alexiscalvillo" style="background:#ff6b1a;color:#fff;padding:0.35em 0.9em;border-radius:4px;text-decoration:none;font-weight:bold;margin-right:0.4em;">LINKEDIN</a>
+<a href="https://www.instagram.com/shots.by_la" style="background:#ff6b1a;color:#fff;padding:0.35em 0.9em;border-radius:4px;text-decoration:none;font-weight:bold;margin-right:0.4em;">INSTAGRAM</a>
+</div>
 
 ---
 
@@ -30,4 +34,18 @@ Computer Systems Engineering | Embedded Systems | Robotics | AI Tooling
 
 ## Programming Languages and Technologies I know
 
-C · C++ · Java · Python · JavaScript · Docker · Git · MPLAB X · UE5 · Node.js · Proteus
+<div style="display:flex;flex-wrap:wrap;gap:0.4em;margin:0.6em 0;">
+
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">C</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">C++</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Java</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Python</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">JavaScript</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Docker</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Git</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">MPLAB X</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">UE5</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Node.js</span>
+<span style="background:#ff6b1a;color:#fff;padding:0.3em 0.6em;border-radius:4px;">Proteus</span>
+
+</div>
