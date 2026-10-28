@@ -17,7 +17,7 @@
 ## 🧑‍💻 About me
 
 - 🎓 Studying Robotics and Telecommunications Engineering at **UDLAP**
-- 🇲🇽 Based in Mexico · 🗣️ Spanish & English
+- 🇲🇽 Based in Mexico · 🗣️ Spanish & English · <img src="https://flagcdn.com/w40/mx.png" alt="Mexico" width="20" height="12">
 - 🔌 Hands-on with embedded systems, mechatronics, and robotics
 - 📐 I turn ideas into 3D models before they become hardware
 - ⚡ Enginerd
