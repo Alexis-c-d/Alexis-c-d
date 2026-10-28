@@ -1,13 +1,21 @@
 # Hi, I'm Alexis 👋
 
 ```
- ### #    #### #   #  #   ###
-#   #    #    # #   #  #
-#####    ###   #    ###
-#   #    #    # #   #      #
-#   #    #####  #   #  #   ####
+  #      #      #####    #   #    #####      #      ###
+ # #     #      #        # #     #        # #     #
+ ###     #      ####     #      #        #       ###
+ # #     #      #        # #     #        # #       #
+ # #     #####  #####    #   #    #####    # #     ###
+```
 
-       embedded systems · robotics · AI tooling
+```
+    ___________
+   |  _______  |
+   | |   O   | |
+   | |   _   | |
+   |___________|
+    |_|_|_|_|_|
+     embedded systems · robotics · AI tooling
 ```
 
 Welcome to my engineering portfolio! I'm an embedded systems and software developer passionate about building robust hardware-software integrations, automation tools, and reliable systems. I work at the boundary where firmware talks to physics — microcontrollers, servos, sensors, and the odd digital twin.
