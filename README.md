@@ -20,7 +20,7 @@
 - 🇲🇽 Based in Mexico · 🗣️ Spanish & English
 - 🔌 Hands-on with embedded systems, mechatronics, and robotics
 - 📐 I turn ideas into 3D models before they become hardware
-- 🤓 Nerdy, but cool
+- ⚡ Enginerd
 
 <br>
 
@@ -28,7 +28,6 @@
 
 | Project | What it is |
 |:--|:--|
-| 🦾 **Supernumerary Robotic Arm** | A wearable robotic arm: full hardware design and iteration |
 | 🕷️ **Rocky Pentapod** | A pentaradial robot inspired by *Project Hail Mary*: 5 limbs × 4 servos (20 STS3215) |
 | 🏎️ **Baja SAE Team** | Assembling the team and modeling the vehicle in 3D: suspension, steering, and brakes |
 | 🎮 **UE5 Digital Twin Article** | Scientific article evaluating Unreal Engine 5 Chaos Physics as a simulation environment for mobile robots |
@@ -49,9 +48,10 @@
 
 ## 📚 Currently learning
 
-- 📡 Communications: Fourier series and transforms
-- 🎛️ Signals & instrumentation: passive and active sensors
-- 🦿 Robotic actuation and control for the supernumerary arm
+- 📡 **Advanced signal processing** — Fourier analysis, modulation, and information theory
+- 🎛️ **Real-time embedded control** — sensor fusion, PID tuning, and DSP on microcontrollers
+- 🦿 **Robotic actuation & control** — multi-joint kinematics, torque control, and servo bus architectures
+- 🤖 **Reinforcement learning for robotics** — policy learning in simulated environments
 
 <br>
 
