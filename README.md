@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="assets/robotics-banner.svg" alt="Robotics and embedded systems banner" width="100%">
+
 # 👋 Hey, I'm Alexis
 
-**Robotics & Telecommunications Engineering student** · Embedded systems · Mechatronics · Robotics
+**I build robots and embedded systems, from circuit to simulation.**
 
 <br>
 
@@ -28,15 +30,16 @@
 
 | Project | What it is |
 |:--|:--|
-| 🕷️ **Rocky Pentapod** | A pentaradial robot inspired by *Project Hail Mary*: 5 limbs × 4 servos (20 STS3215) |
+| 🕷️ [**Rocky Pentapod**](https://github.com/Alexis-c-d/rocky-pentapod-robot) | A pentaradial robot inspired by *Project Hail Mary*: 5 limbs × 4 servos (20 STS3215) |
 | 🏎️ **Baja SAE Team** | Assembling the team and modeling the vehicle in 3D: suspension, steering, and brakes |
-| 🎮 **UE5 Digital Twin Article** | Scientific article evaluating Unreal Engine 5 Chaos Physics as a simulation environment for mobile robots |
+| 🎮 [**UE5 Digital Twin Research**](https://github.com/Alexis-c-d/ue5-digital-twin-research) | Research evaluating Unreal Engine 5 Chaos Physics as a simulation environment for mobile robots |
+| 📡 [**UART + ESP32 FPGA Bridge**](https://github.com/Alexis-c-d/practica4-uart-esp32) | Bidirectional UART communication between a computer and a DE10-Lite FPGA using an ESP32 bridge |
 
 <br>
 
 ## 🛠️ Toolbox
 
-| | |
+| **Area** | **Tools** |
 |:--|:--|
 | **Languages** | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> |
 | **Embedded** | <img src="https://img.shields.io/badge/MPLAB_X-EE3524?style=flat-square&logo=microchip&logoColor=white" alt="MPLAB X"> <img src="https://img.shields.io/badge/XC8-EE3524?style=flat-square&logo=microchip&logoColor=white" alt="XC8"> |
@@ -48,10 +51,8 @@
 
 ## 📚 Currently learning
 
-- 📡 **Advanced signal processing** — Fourier analysis, modulation, and information theory
-- 🎛️ **Real-time embedded control** — sensor fusion, PID tuning, and DSP on microcontrollers
-- 🦿 **Robotic actuation & control** — multi-joint kinematics, torque control, and servo bus architectures
-- 🤖 **Reinforcement learning for robotics** — policy learning in simulated environments
+- 📡 **Signal processing** — Fourier analysis, modulation, and information theory
+- 🎛️ **Robotics & embedded control** — real-time control, actuation, and reinforcement learning
 
 <br>
 
