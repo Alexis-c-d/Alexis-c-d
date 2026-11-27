@@ -26,6 +26,12 @@
 
 <br>
 
+## 📄 Resume
+
+[View my resume](https://github.com/Alexis-c-d/Alexis_Calvillo_Resume)
+
+<br>
+
 ## 🚀 What I'm building
 
 | Project | What it is |
