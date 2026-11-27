@@ -28,7 +28,7 @@
 
 ## 📄 Resume
 
-[View my resume](https://github.com/Alexis-c-d/Alexis_Calvillo_Resume)
+[View my resume (PDF)](https://github.com/Alexis-c-d/Alexis_Calvillo_Resume/blob/main/Alexis_Calvillo_Resume.pdf)
 
 <br>
 
