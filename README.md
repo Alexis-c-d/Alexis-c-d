@@ -32,6 +32,12 @@
 
 <br>
 
+## 🌐 Portfolio
+
+[Visit my portfolio](https://alexis-c-d.github.io/alexis-portfolio/)
+
+<br>
+
 ## 🚀 What I'm building
 
 | Project | What it is |
